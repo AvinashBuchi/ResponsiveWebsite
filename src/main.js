@@ -1,4 +1,4 @@
-// active navbar
+// active  navbar
 let nav = document.querySelector(".navigation-wrap");
 window.onscroll = function () {
     if (document.documentElement.scrollTop > 20) {
